@@ -14,3 +14,5 @@ Our meetings in Michaelmas 2023 are on Part III of Volume 1 of the <a href="http
   <li>04/10: <b>Benedikt</b> - III.16:2.6 </li>
 
 </ul>
+
+To declare your availability in leading a reading group meeting, please use <a href="https://doodle.com/meeting/participate/id/enOKXB7a/vote">this</a> poll. 
