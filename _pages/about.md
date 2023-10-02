@@ -11,7 +11,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the website for the Cambridge Logic and Algorithms group. We meet weekly to read and discuss 
+Welcome to the website for the Cambridge Logic and Algorithms group. We meet weekly to read and discuss papers and books that touch upon these two themes. 
 
 Our topic this term is the algebraic and topological theory of automata, as covered in Part III of the <a href="https://ems.press/books/standalone/172">Handbook of Automata Theory</a>. See our current schedule for details. 
 
