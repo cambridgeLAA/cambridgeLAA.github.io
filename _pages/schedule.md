@@ -11,7 +11,8 @@ Our meetings in Michaelmas 2023 are on Part III of Volume 1 of the <a href="http
   <li>06/09: <b>Ioannis</b> - I.1:4.1-4.2, III.16:1 (<a href="https://cambridgeLAA.github.io/_pages/1.pdf" target="_blank">notes</a>)</li>
   <li>13/09: <b>Aidan</b> - III.16:2.1-2.3 (<a href="https://cambridgeLAA.github.io/_pages/2.pdf" target="_blank">notes</a>)</li>
   <li>27/09: <b> Nihil</b> - III.16:2.4-2.5 </li>
-  <li>04/10: <b>Benedikt</b> - III.16:2.6 </li>
+  <li>04/10: <b>Benedikt</b> - III.16:2.6.1-2.6.2 </li>
+  <li>11/10: <b>Benedikt</b> - III.16:2.6 </li>
 
 </ul>
 
