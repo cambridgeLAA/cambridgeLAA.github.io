@@ -14,6 +14,7 @@ Our meetings in Michaelmas 2023 are on Part III of Volume 1 of the <a href="http
   <li>04/10: <b>Benedikt</b> - III.16:2.6.1-2.6.2 </li>
   <li>18/10: <b>Benedikt</b> - III.16:2.6 </li>
   <li>25/10: <b>Anuj</b> - III.16:2.7-3</li>
+  <li>01/11: <b>Ioannis</b> - III.16:4</li>
 
 </ul>
 
